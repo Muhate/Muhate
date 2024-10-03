@@ -3,6 +3,7 @@
 
 I am a detail-oriented and dedicated IT professional with more than 7 years of experience in network and system administration and more than 2 as a security analyst, well skilled on following documentation, guidance, and/or instructions. Here, I document various projects I have undertaken to enhance my skills in network and system administration and in cybersecurity. Each project may include a brief overview, the tools used, installation steps, and findings.
 
+
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | File Integrity Monitoring with Wazuh - Windows and Ubuntu | <a href="https://github.com/Muhate/FIM-with-Wazuh">FIM with Wazuh</a>|
@@ -11,6 +12,7 @@ I am a detail-oriented and dedicated IT professional with more than 7 years of e
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 
