@@ -3,12 +3,9 @@
 
 I am a detail-oriented and dedicated IT professional with more than 7 years of experience in network and system administration and more than 2 as a security analyst, well skilled on following documentation, guidance, and/or instructions. Here, I document various projects I have undertaken to enhance my skills in network and system administration and in cybersecurity. Each project may include a brief overview, the tools used, installation steps, and findings.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Projecto de Segurança do Active Directory com Splunk, Sysmon e Kali Linux          | <a href="https://github.com/Muhate/Detection-LAB/tree/main">Projecto AD</a>|
+| File Integrity Monitoring with Wazuh - Windows and Ubuntu | <a href="https://github.com/Muhate/Detection-LAB/tree/main">Projecto AD</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
