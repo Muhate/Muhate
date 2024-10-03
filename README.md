@@ -39,6 +39,7 @@ I am a detail-oriented and dedicated IT professional with more than 7 years of e
 
 ## Certifications
 <div>
+<img src="(https://img.shields.io/badge/-CompTIA%20CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity%20(CC)-007ACC?&style=for-the-badge&logo=ISC2&logoColor=white" />
