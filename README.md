@@ -43,5 +43,5 @@ I am a detail-oriented and dedicated IT professional with more than 7 years of e
 </div>
 
 ## Projects
-- <a href="https://github.com/Muhate/Detection-LAB/tree/main">Detection Lab</a>
+- <a href="https://github.com/Muhate/Detection-LAB/tree/main">FIM Lab with Wazuh</a>
 - SOC Automation Project
