@@ -1,9 +1,8 @@
-# Hello, I'm Rogério Bernardo Muhate
+# Hello, I'm Rogério Bernardo Muhate, and welcome to my Home Lab Projects repository!
 <a href="https://linkedin.com/in/rmuhate"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am detail-oriented and dedicated IT professional with more than 7 years of experience in network and system administration and more than 2 as a Security Analist, well skilled on following documentation, guidance and/or instructions.
+Here, I document various projects I have undertaken to enhance my skills in network and system administration and in cybersecurity. Each project may include a brief overview, the tools used, installation steps, and findings.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
