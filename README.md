@@ -3,11 +3,6 @@
 
 I am a detail-oriented and dedicated IT professional with more than 7 years of experience in network and system administration and more than 2 as a security analyst, well skilled on following documentation, guidance, and/or instructions. Here, I document various projects I have undertaken to enhance my skills in network and system administration and in cybersecurity. Each project may include a brief overview, the tools used, installation steps, and findings.
 
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
