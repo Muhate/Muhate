@@ -7,11 +7,6 @@ I am a detail-oriented and dedicated IT professional with more than 7 years of e
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | File Integrity Monitoring with Wazuh - Windows and Ubuntu | <a href="https://github.com/Muhate/FIM-with-Wazuh">FIM with Wazuh</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 
 ## Tools
@@ -47,4 +42,3 @@ I am a detail-oriented and dedicated IT professional with more than 7 years of e
 
 ## Projects
 - <a href="https://github.com/Muhate/FIM-with-Wazuh">FIM Lab with Wazuh</a>
-- SOC Automation Project
