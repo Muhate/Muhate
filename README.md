@@ -43,3 +43,4 @@ I am a detail-oriented and dedicated IT professional with more than 7 years of e
 
 ## Projects
 - <a href="https://github.com/Muhate/FIM-with-Wazuh">FIM Lab with Wazuh</a>
+- <a href="https://github.com/Muhate/Suricata-and-Wazuh-integration">Detecting Network Intrusion</a>
