@@ -7,6 +7,7 @@ I am a detail-oriented and dedicated IT professional with more than 7 years of e
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | File Integrity Monitoring with Wazuh - Windows and Ubuntu | <a href="https://github.com/Muhate/FIM-with-Wazuh">FIM with Wazuh</a>|
+| Suricata and Wazuh integration - Detecting Network Intrusion | <a href="https://github.com/Muhate/Suricata-and-Wazuh-integration">Detecting Network Intrusion</a>|
 
 
 ## Tools
